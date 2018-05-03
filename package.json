@@ -28,7 +28,7 @@
     "level-sublevel": "^6.6.1",
     "leveldown": "^3.0.0",
     "levelup": "^2.0.2",
-    "node-lmdb": "jeffesquivels/node-lmdb#e495c491f5d5c694593f73376c6099cda81d8a9b"
+    "node-lmdb": "Venemo/node-lmdb"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
